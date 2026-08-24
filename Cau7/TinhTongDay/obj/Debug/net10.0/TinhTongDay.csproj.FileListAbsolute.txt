@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\bin\Debug\net10.0\TinhTongDay.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\bin\Debug\net10.0\TinhTongDay.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\bin\Debug\net10.0\TinhTongDay.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\bin\Debug\net10.0\TinhTongDay.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\bin\Debug\net10.0\TinhTongDay.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\refint\TinhTongDay.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\TinhTongDay.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\TinhTongDay\obj\Debug\net10.0\ref\TinhTongDay.dll
