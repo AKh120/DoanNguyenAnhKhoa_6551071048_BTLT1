@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\refint\ChuyenDoiNhietDo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\ChuyenDoiNhietDo\obj\Debug\net10.0\ref\ChuyenDoiNhietDo.dll
