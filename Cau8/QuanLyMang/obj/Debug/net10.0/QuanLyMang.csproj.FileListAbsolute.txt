@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\bin\Debug\net10.0\QuanLyMang.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\bin\Debug\net10.0\QuanLyMang.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\bin\Debug\net10.0\QuanLyMang.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\bin\Debug\net10.0\QuanLyMang.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\bin\Debug\net10.0\QuanLyMang.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\refint\QuanLyMang.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\QuanLyMang.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\QuanLyMang\obj\Debug\net10.0\ref\QuanLyMang.dll
