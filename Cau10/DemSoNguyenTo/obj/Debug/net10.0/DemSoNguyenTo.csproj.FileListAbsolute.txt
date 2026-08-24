@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\refint\DemSoNguyenTo.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\DemSoNguyenTo\obj\Debug\net10.0\ref\DemSoNguyenTo.dll
