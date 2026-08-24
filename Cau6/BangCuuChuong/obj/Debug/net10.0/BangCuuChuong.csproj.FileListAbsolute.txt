@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.exe
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.deps.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.runtimeconfig.json
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfo.cs
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\refint\BangCuuChuong.dll
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.pdb
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.genruntimeconfig.cache
+C:\Users\Admin\Documents\LapTrinhTrucQuan\BangCuuChuong\obj\Debug\net10.0\ref\BangCuuChuong.dll
